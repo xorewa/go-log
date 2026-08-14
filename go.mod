@@ -1,4 +1,4 @@
-module github.com/sstanculeanu/go-log/v2
+module github.com/ipfs/go-log/v2
 
 go 1.25
 
